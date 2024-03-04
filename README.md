@@ -1,16 +1,12 @@
-# calculator
+# Calculator
 
-A new Flutter project.
+A simple calculator app made in flutter with dark mode feature and implemented neumorphism concept in flutter widgets. Posting video for dark mode and light modes.
 
-## Getting Started
+<br/><br/>
 
-This project is a starting point for a Flutter application.
+https://github.com/AditiDande20/Calculator/assets/89302011/5ecd0ee4-c23a-4050-8041-9c37013dde19
 
-A few resources to get you started if this is your first Flutter project:
+<br/><br/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/AditiDande20/Calculator/assets/89302011/f5194f56-c1b0-4ce7-a727-31b3e5843331
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
